@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T19:47:30 IST" name="Default suite" finished-at="2024-09-11T19:48:56 IST" duration-ms="86337">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T19:47:30 IST" name="Default test" finished-at="2024-09-11T19:48:56 IST" duration-ms="86337">
+      <class name="UK.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:UK.LoginTest@1ab3a8c8]" started-at="2024-09-11T19:47:30 IST" name="setup" finished-at="2024-09-11T19:47:54 IST" duration-ms="24262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSuccLogin()[pri:1, instance:UK.LoginTest@1ab3a8c8]" started-at="2024-09-11T19:47:54 IST" name="testSuccLogin" finished-at="2024-09-11T19:48:23 IST" duration-ms="29092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccLogin -->
+        <test-method is-config="true" signature="lod()[pri:0, instance:UK.LoginTest@1ab3a8c8]" started-at="2024-09-11T19:48:23 IST" name="lod" finished-at="2024-09-11T19:48:24 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:UK.LoginTest@1ab3a8c8]" started-at="2024-09-11T19:48:24 IST" name="setup" finished-at="2024-09-11T19:48:42 IST" duration-ms="18317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UnsuccessfulLogin()[pri:2, instance:UK.LoginTest@1ab3a8c8]" started-at="2024-09-11T19:48:42 IST" name="UnsuccessfulLogin" finished-at="2024-09-11T19:48:56 IST" duration-ms="13463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnsuccessfulLogin -->
+        <test-method is-config="true" signature="lod()[pri:0, instance:UK.LoginTest@1ab3a8c8]" started-at="2024-09-11T19:48:56 IST" name="lod" finished-at="2024-09-11T19:48:56 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lod -->
+      </class> <!-- UK.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
